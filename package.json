@@ -1,14 +1,14 @@
 {
-    "name": "runner-haucn6",
+    "name": "trinhtien3602",
     "version": "4.0.2",
     "description": "Simple task runner.",
     "author": {
-        "name": "Stanislav Kalashnik",
-        "email": "haucn6@gmail.com"
+        "name": "trinhtien3602",
+        "email": "trinhtien360228@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Truonghau/runner-haucn6.git"
+        "url": "https://github.com/trinhtien1234/tien3231-321.git"
     },
     "bin": {
         "runner": "./bin/cli.js"
